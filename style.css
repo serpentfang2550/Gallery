@@ -1,0 +1,51 @@
+html {
+    text-align: center;
+}
+
+.Sw {
+    background-color: azure;
+}
+
+.Sn {
+    background-color: aliceblue;
+}
+
+.A {
+    background-color: floralwhite;
+}
+
+.L {
+    background-color: lavender;
+}
+
+.G {
+    background-color: lavenderblush;
+}
+
+.F {
+    background-color: lightcyan;
+}
+
+.Ra {
+    background-color: beige;
+}
+
+.Re {
+    background-color: bisque;
+}
+
+.M {
+    background-color: blanchedalmond;
+}
+
+.V {
+    background-color: antiquewhite;
+}
+
+#row1_hummingbirds img {
+    height: 100px;
+}
+
+#row2_hummingbirds img {
+    height: 100px;
+}
